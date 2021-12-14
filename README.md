@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Horma-mohamed iam a mauritanian and i love code
 - 👀 I’m interested in web development , data sientist, graphics design , and iam interested in AI also  
 - 🌱 I’m currently learning web dev with react js and django 
-- 💞️ 
 - 📫 How to reach me : horma496@gmail.com 
 
 <!---
